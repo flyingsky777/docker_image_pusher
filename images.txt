@@ -5,3 +5,7 @@ mysql:8.4.6
 minio/minio:RELEASE.2025-02-18T16-25-55Z
 redis:alpine
 bitnami/postgresql:latest
+dataease/sqlbot:latest
+1panel/maxkb:latest
+ollama/ollama:latest
+elasticsearch:9.2.2
