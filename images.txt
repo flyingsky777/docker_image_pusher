@@ -1,5 +1,6 @@
 nginx
 python:3.9-slim
+python:3.10-slim
 amazoncorretto:17-alpine-jdk
 mysql:8.4.6
 minio/minio:RELEASE.2025-02-18T16-25-55Z
